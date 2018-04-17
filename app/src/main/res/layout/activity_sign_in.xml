@@ -60,6 +60,7 @@
             app:met_singleLineEllipsis="true"
             />
 
+
     </LinearLayout>
 
     <info.hoang8f.widget.FButton
